@@ -1,7 +1,6 @@
 from email import message
 from email.errors import MessageError
 from pickle import TRUE
-from symbol import pass_stmt
 import frappe
 from frappe import _
 from erpnext.payroll.doctype.salary_slip.salary_slip import SalarySlip
